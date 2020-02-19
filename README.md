@@ -1,11 +1,3 @@
-ADISHANKARA INSTITUTE OF ENGINEERING AND TECHNOLOGY   
-FIVE DAY STTP ON 
-An Introductory course on Industrial Automation
-In Association with 
-ENTREPRENEURSHIP RESOURCE CELL, Dept of EEE, VJEC.
-
-
-
 
 Part A
 Construct a simple circuit that switches on motor when the temperature sensor supplies signal on rated temperature.
